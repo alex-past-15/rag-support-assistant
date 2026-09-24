@@ -1,0 +1,7 @@
+beautifulsoup4>=4.12,<5
+markdownify>=1.2,<2
+sentence-transformers==6.1.0
+faiss-cpu==1.15.1
+httpx>=0.28,<1
+python-dotenv>=1.0,<2
+streamlit>=1.40,<2

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "doc_01",
+    "title": "В каталоге",
+    "url": "https://www.yandex.ru/support/marketplace/ru/assortment/create/add/pi",
+    "selected_on": "2026-09-21",
+    "status": "selected_from_official_navigation"
+  },
+  {
+    "id": "doc_02",
+    "title": "Из Excel-файла",
+    "url": "https://www.yandex.ru/support/marketplace/ru/assortment/create/add/excel",
+    "selected_on": "2026-09-21",
+    "status": "selected_from_official_navigation"
+  },
+  {
+    "id": "doc_03",
+    "title": "C помощью файла другого маркетплейса",
+    "url": "https://www.yandex.ru/support/marketplace/ru/assortment/create/add/other",
+    "selected_on": "2026-09-21",
+    "status": "selected_from_official_navigation"
+  },
+  {
+    "id": "doc_04",
+    "title": "Какая информация о товаре самая важная",
+    "url": "https://www.yandex.ru/support/marketplace/ru/assortment/create/main-fields/general",
+    "selected_on": "2026-09-21",
+    "status": "selected_from_official_navigation"
+  },
+  {
+    "id": "doc_05",
+    "title": "Как составить название и описание",
+    "url": "https://www.yandex.ru/support/marketplace/ru/assortment/create/main-fields/title-description",
+    "selected_on": "2026-09-21",
+    "status": "selected_from_official_navigation"
+  },
+  {
+    "id": "doc_06",
+    "title": "Какие изображения добавить",
+    "url": "https://www.yandex.ru/support/marketplace/ru/assortment/create/main-fields/images",
+    "selected_on": "2026-09-21",
+    "status": "selected_from_official_navigation"
+  },
+  {
+    "id": "doc_07",
+    "title": "Какие видео добавить",
+    "url": "https://www.yandex.ru/support/marketplace/ru/assortment/create/main-fields/video",
+    "selected_on": "2026-09-21",
+    "status": "selected_from_official_navigation"
+  },
+  {
+    "id": "doc_08",
+    "title": "Как заполнить характеристики",
+    "url": "https://www.yandex.ru/support/marketplace/ru/assortment/create/main-fields/optional",
+    "selected_on": "2026-09-21",
+    "status": "selected_from_official_navigation"
+  },
+  {
+    "id": "doc_09",
+    "title": "Как назначить и изменить категорию",
+    "url": "https://www.yandex.ru/support/marketplace/ru/assortment/create/main-fields/change-category",
+    "selected_on": "2026-09-21",
+    "status": "selected_from_official_navigation"
+  },
+  {
+    "id": "doc_10",
+    "title": "Как измерить и указать габариты",
+    "url": "https://www.yandex.ru/support/marketplace/ru/assortment/create/main-fields/dimensions",
+    "selected_on": "2026-09-21",
+    "status": "selected_from_official_navigation"
+  },
+  {
+    "id": "doc_11",
+    "title": "Как указать размеры",
+    "url": "https://www.yandex.ru/support/marketplace/ru/assortment/create/main-fields/sizes",
+    "selected_on": "2026-09-21",
+    "status": "selected_from_official_navigation"
+  },
+  {
+    "id": "doc_12",
+    "title": "Как заполнять карточку быстрее",
+    "url": "https://www.yandex.ru/support/marketplace/ru/assortment/create/help",
+    "selected_on": "2026-09-21",
+    "status": "selected_from_official_navigation"
+  },
+  {
+    "id": "doc_13",
+    "title": "Как повысить качество карточки",
+    "url": "https://www.yandex.ru/support/marketplace/ru/assortment/content/quality",
+    "selected_on": "2026-09-21",
+    "status": "selected_from_official_navigation"
+  },
+  {
+    "id": "doc_14",
+    "title": "Как попасть во «Все предложения»",
+    "url": "https://www.yandex.ru/support/marketplace/ru/assortment/content/all-offers",
+    "selected_on": "2026-09-21",
+    "status": "selected_from_official_navigation"
+  },
+  {
+    "id": "doc_15",
+    "title": "Как объединить варианты",
+    "url": "https://www.yandex.ru/support/marketplace/ru/assortment/operations/combine",
+    "selected_on": "2026-09-21",
+    "status": "selected_from_official_navigation"
+  },
+  {
+    "id": "doc_16",
+    "title": "Как отредактировать или удалить",
+    "url": "https://www.yandex.ru/support/marketplace/ru/assortment/operations/edit",
+    "selected_on": "2026-09-21",
+    "status": "selected_from_official_navigation"
+  },
+  {
+    "id": "doc_17",
+    "title": "Как изменить артикул (SKU)",
+    "url": "https://www.yandex.ru/support/marketplace/ru/assortment/operations/edit-sku",
+    "selected_on": "2026-09-21",
+    "status": "selected_from_official_navigation"
+  },
+  {
+    "id": "doc_18",
+    "title": "Как посмотреть статусы",
+    "url": "https://www.yandex.ru/support/marketplace/ru/assortment/operations/statuses",
+    "selected_on": "2026-09-21",
+    "status": "selected_from_official_navigation"
+  },
+  {
+    "id": "doc_19",
+    "title": "Как приостановить и возобновить продажу",
+    "url": "https://www.yandex.ru/support/marketplace/ru/assortment/operations/stop-and-resume",
+    "selected_on": "2026-09-21",
+    "status": "selected_from_official_navigation"
+  },
+  {
+    "id": "doc_20",
+    "title": "Как продавать по несколько штук",
+    "url": "https://www.yandex.ru/support/marketplace/ru/assortment/operations/multiple-items",
+    "selected_on": "2026-09-21",
+    "status": "selected_from_official_navigation"
+  }
+]
